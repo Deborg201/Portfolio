@@ -3,7 +3,7 @@ import Head from "next/head";
 
 const Seo = ({
   title = "Khushdeep Jain",
-  description = "Hey! I am Ayush, a full-stack developer from India.",
+  description = "Hey! I am Khushdeep Jain, a full-stack developer from India.",
   OGImage = "",
   OGType = "website",
   canonicalUrl = "https://www.linkedin.com/in/khushdeep-jain-203783203/",
